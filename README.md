@@ -1,6 +1,6 @@
 # 4BARHEXILS
 
-### Software Version
+### Software Versions
 
 [V2.0.0 - 4BAR Hex ILS](https://github.com/Chauvet-DJ/4BARHEXILS/tree/54d465268dffbf3ebcc1a6fbe93718a5a1138377/Firmware)
 - Released software version
