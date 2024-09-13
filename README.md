@@ -2,12 +2,12 @@
 
 ## Software Versions
 
-[V2.01a - 4BAR Hex ILS](https://github.com/Chauvet-DJ/4BARHEXILS/blob/9471cc0af4f4dca9ea2370ecfebd9b96b94f9e9d/Firmware/V2.01a_06-30-24.zip)
+[V2.01a - 4BAR Hex ILS](https://github.com/Chauvet-DJ/4BARHEXILS/blob/d3f4f69b1402478d222447c30600418b3f662318/Firmware/V2.01a_09-13-24.zip)
 - ***NOTE: Use this version for products with serial number 0424000421 and up.***
 - Changed the D-Fi detection method from voltage detection to software detection
 - Updated the software file name
 
-[V2.01b - 4BAR Hex ILS](https://github.com/Chauvet-DJ/4BARHEXILS/blob/9471cc0af4f4dca9ea2370ecfebd9b96b94f9e9d/Firmware/V2.01b_06-30-24.zip)
+[V2.01b - 4BAR Hex ILS](https://github.com/Chauvet-DJ/4BARHEXILS/blob/d3f4f69b1402478d222447c30600418b3f662318/Firmware/V2.01b_09-13-24.zip)
 - ***NOTE: Use this version for products with serial number 0424000420 and below.***
 - Changed the D-Fi detection method from voltage detection to software detection
 
